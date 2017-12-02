@@ -4,11 +4,11 @@
     width: 500px;
     height: 650px;
 	border-radius: 0.6em;
-	background-color: aliceblue
+	background-color: aliceblue;
 }
 #titel_left {
 	text-align: left;
-	color: #EF5350;
+	color: #4b134f;
     font-family: 'Titillium Web', sans-serif;
     font-weight: 800;
     font-size: 70px;
@@ -19,7 +19,7 @@
 }
 #titel_right {
 	text-align: right;
-	color: #EF5350;
+	color: #c94b4b;
     font-family: 'Titillium Web', sans-serif;
     font-weight: 800;
     font-size: 70px;
@@ -32,7 +32,7 @@
 	width: 70px;
 	height: 70px;
 	display: block;
-	margin-left: 213px;
+	margin-left: 225px;
 	padding-top: 45px;
 	opacity: 0.6;
 }
@@ -201,5 +201,5 @@
 	height: 185px;
 	position: fixed;
 	margin-left: 265px;
-	margin-top: -226px;
+	margin-top: -203px;
 }
